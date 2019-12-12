@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1572220722 source:c:\users\andré rossner\desktop\menu_cliente\design.c
+	<windows.h>
+
+1572232675 source:c:\users\andré rossner\desktop\menu_cliente\main.c
+	<stdlib.h>
+	<stdio.h>
+	"design.h"
+
+1572220722 c:\users\andré rossner\desktop\menu_cliente\design.h
+
+1572220722 source:c:\users\rossn\onedrive\documentos\menu_cliente\design.c
+	<windows.h>
+
+1572232716 source:c:\users\rossn\onedrive\documentos\menu_cliente\main.c
+	<stdlib.h>
+	<stdio.h>
+	"design.h"
+
+1572220722 c:\users\rossn\onedrive\documentos\menu_cliente\design.h
+
+1572220722 source:c:\users\andré rossner\onedrive\documentos\menu_cliente\design.c
+	<windows.h>
+
+1574996472 source:c:\users\andré rossner\onedrive\documentos\menu_cliente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"design.h"
+
+1572220722 c:\users\andré rossner\onedrive\documentos\menu_cliente\design.h
+

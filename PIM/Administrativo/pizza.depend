@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1570291246 source:c:\users\rossn\onedrive\documentos\pim\telas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"teste.h"
+
+1570291246 c:\users\rossn\onedrive\documentos\pim\telas\teste.h
+
+1570291246 source:c:\users\rossn\onedrive\documentos\pim\telas\teste.c
+
+1570292444 source:c:\users\rossn\onedrive\documentos\pim\telas\menus.c
+
+1570337143 source:c:\users\andré rossner\desktop\pim\design.c
+	<windows.h>
+
+1570337122 source:c:\users\andré rossner\desktop\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"menus.h"
+	"design.h"
+
+1570319251 c:\users\andré rossner\desktop\pim\menus.h
+
+1570337143 c:\users\andré rossner\desktop\pim\design.h
+
+1570319251 source:c:\users\andré rossner\desktop\pim\menus.c
+
+1570922484 source:c:\users\rossn\onedrive\documentos\pim\design.c
+	<windows.h>
+
+1570319251 source:c:\users\rossn\onedrive\documentos\pim\menus.c
+
+1574613229 source:c:\users\rossn\onedrive\documentos\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"menus.h"
+	"design.h"
+
+1574611958 c:\users\rossn\onedrive\documentos\pim\menus.h
+
+1574613251 c:\users\rossn\onedrive\documentos\pim\design.h
+
+1570922484 source:c:\users\andré rossner\onedrive\documentos\pim\design.c
+	<windows.h>
+
+1570319251 source:c:\users\andré rossner\onedrive\documentos\pim\menus.c
+
+1575413087 source:c:\users\andré rossner\onedrive\documentos\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"menus.h"
+	"design.h"
+
+1574985572 c:\users\andré rossner\onedrive\documentos\pim\menus.h
+
+1574613251 c:\users\andré rossner\onedrive\documentos\pim\design.h
+
+1570922484 source:c:\pim\design.c
+	<windows.h>
+
+1570319251 source:c:\pim\menus.c
+
+1575416546 source:c:\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"menus.h"
+	"design.h"
+
+1574985572 c:\pim\menus.h
+
+1574613251 c:\pim\design.h
+

@@ -1,0 +1,3 @@
+cod;Cliente/Mesa;Pizza/Promocao;Bebida;Total;
+1;Andre;2 pizzas de 22 com refri gratis;-;39.90;
+2;12;4 queijos;coca 2 lts;35.45;

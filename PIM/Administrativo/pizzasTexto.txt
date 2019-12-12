@@ -1,0 +1,3 @@
+cod;sabor;Ingredientes;custo;preco venda;
+1;Portuguesa;Mussarela, calabresa, cebola, ovo, ervilha.;13.00;29.00;
+2;4 queijos;Mussarela, provolone, parmesao, gorgonzola;12.00;26.95;

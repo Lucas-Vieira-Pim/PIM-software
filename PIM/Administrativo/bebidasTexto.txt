@@ -1,0 +1,2 @@
+cod;Bebida;custo;preco venda;
+1;coca 2 lts;3.20;8.50;

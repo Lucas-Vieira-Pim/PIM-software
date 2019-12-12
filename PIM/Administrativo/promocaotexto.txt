@@ -1,0 +1,2 @@
+cod;Promocao;custo;preco venda;
+1;2 pizzas de 22 com refri gratis;20.00;39.90;
